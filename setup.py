@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
  
 setup(name='PrintableTree',
-      packages=['src'],
+      packages=['PrintableTree'],
       version='0.4',
       url='https://github.com/klingerkrieg/PrintableTree',
       download_url='https://github.com/klingerkrieg/PrintableTree/archive/refs/tags/0.4.tar.gz',
